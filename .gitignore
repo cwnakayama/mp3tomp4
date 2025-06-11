@@ -15,7 +15,8 @@ Thumbs.db
 # 出力ファイル
 mp4/
 audio/comitted/
-pict/
+pict/*
+!pict/README.md
 
 # ログや一時ファイル
 *.log
