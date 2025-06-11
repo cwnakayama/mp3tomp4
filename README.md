@@ -29,7 +29,7 @@
 ### 2. プロジェクトのクローン・ダウンロード
 
 ```sh
-git clone <このリポジトリのURL>
+git clone https://github.com/cwnakayama/mp3tomp4.git
 cd mp3tomp4
 ```
 

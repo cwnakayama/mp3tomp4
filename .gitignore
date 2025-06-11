@@ -13,8 +13,11 @@ venv/
 Thumbs.db
 
 # 出力ファイル
-mp4/
-audio/comitted/
+mp4/*
+!mp4/README.md
+audio/*
+!audio/README.md
+audio/comitted/*
 pict/*
 !pict/README.md
 
