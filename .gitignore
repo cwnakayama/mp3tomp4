@@ -13,9 +13,9 @@ venv/
 Thumbs.db
 
 # 出力ファイル
-mp4/*
-audio/comitted/*
-pict/*
+mp4/
+audio/comitted/
+pict/
 
 # ログや一時ファイル
 *.log
